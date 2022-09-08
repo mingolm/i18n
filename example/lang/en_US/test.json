@@ -1,0 +1,7 @@
+{
+  "error": {
+    "invalid_code": "code invalid. your code is :code",
+    "invalid_argument": ":arg argument invalid，now: :time"
+  },
+  "error_register_for_age": "registration failed. you are too young"
+}

@@ -1,0 +1,7 @@
+{
+  "error": {
+    "invalid_code": "验证码错误，正确的验证码是: :code",
+    "invalid_argument": ":arg 参数错误，当前时间: :time"
+  },
+  "error_register_for_age": "注册失败，未成年人无法使用"
+}
